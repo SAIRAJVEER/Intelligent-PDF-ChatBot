@@ -140,10 +140,10 @@ This project incorporates two important components:
 - Evaluate RAG performance and answer quality.
 - Develop and deploy interactive GenAI applications.
 ## 📸 Application Preview
+<img src="Screenshot/image1.png">
+<img src="Screenshot/image2.png">
+<img src="Screenshot/image3.png">
 
-![PDF RAG Assistant](screenshots/image1.png)
-(screenshots/image2.png)
-(screenshots/image3.png)
 ## 👨‍💻 Author
 
 **Sai Pratap Rajveer**
