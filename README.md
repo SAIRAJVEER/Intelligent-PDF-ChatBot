@@ -142,7 +142,6 @@ This project incorporates two important components:
 ## 📸 Application Preview
 <img src="Screenshot/image1.png">
 <img src="Screenshot/image2.png">
-<img src="Screenshot/image3.png">
 
 ## 👨‍💻 Author
 
